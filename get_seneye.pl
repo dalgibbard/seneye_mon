@@ -13,11 +13,6 @@
 #  *** NOTE: Please change the "USER SPECIFIED VARIABLES" to suit your needs.
 #            SEE BELOW :)
 #
-# Future Plans:
-# -------------
-#   * Add in detection of whether ambient LUX levels have been acceptable
-#       within a given time limit. Should help to watch for failed lights.
-#
 # Changelog:
 # ----------
 #   * v0.1 - Created script.
