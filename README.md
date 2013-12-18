@@ -15,7 +15,7 @@ Moving Forward:
 
 API Example Output:
 ===================
-Sorry... not very clean output!
+This is some output from the API, for my tank called "Roma 125" - I've formatted this for easier reading, but the real output has no spacing/returns/indentations!
 
 ```
 <?xml version="1.0"?>
