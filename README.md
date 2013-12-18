@@ -19,7 +19,75 @@ Sorry... not very clean output!
 
 ```
 <?xml version="1.0"?>
-<response><id>4487</id><description>Roma 125</description><type>3</type><time_diff>0</time_diff><status><disconnected>0</disconnected><slide_serial>j82su790hs6</slide_serial><slide_expires>1381379977</slide_expires><out_of_water>0</out_of_water><wrong_slide>0</wrong_slide><last_experiment>1387363740</last_experiment></status><exps><temperature><trend>0</trend><critical_in>-1</critical_in><avg>25.4</avg><status>0</status><curr>25.2</curr><advises/></temperature><ph><trend>0</trend><critical_in>-1</critical_in><avg>7.96</avg><status>0</status><curr>8.08</curr><advises/></ph><nh3><trend>0</trend><critical_in>-1</critical_in><avg>0.001</avg><status>0</status><curr>0.001</curr><advises/></nh3><nh4><trend>1</trend><critical_in>-1</critical_in><avg>21.28</avg><status>0</status><curr>15.52</curr><advises/></nh4><o2><trend>0</trend><critical_in>-1</critical_in><avg>8.1</avg><status>0</status><curr>8.2</curr><advises/></o2><lux><status/><curr>0</curr><advises/></lux><par><curr>0</curr><advises/></par><kelvin><curr>0</curr><advises/></kelvin></exps></response>
+<response>
+    <id>4487</id>
+    <description>Roma 125</description>
+    <type>3</type>
+    <time_diff>0</time_diff>
+    <status>
+        <disconnected>0</disconnected>
+        <slide_serial>j82su790hs6</slide_serial>
+        <slide_expires>1381379977</slide_expires>
+        <out_of_water>0</out_of_water>
+        <wrong_slide>0</wrong_slide>
+        <last_experiment>1387363740</last_experiment>
+    </status>
+    <exps>
+        <temperature>
+            <trend>0</trend>
+            <critical_in>-1</critical_in>
+            <avg>25.4</avg>
+            <status>0</status>
+            <curr>25.2</curr>
+            <advises/>
+        </temperature>
+        <ph>
+            <trend>0</trend>
+            <critical_in>-1</critical_in>
+            <avg>7.96</avg>
+            <status>0</status>
+            <curr>8.08</curr>
+            <advises/>
+        </ph>
+        <nh3>
+            <trend>0</trend>
+            <critical_in>-1</critical_in>
+            <avg>0.001</avg>
+            <status>0</status>
+            <curr>0.001</curr>
+            <advises/>
+        </nh3>
+        <nh4>
+            <trend>1</trend>
+            <critical_in>-1</critical_in>
+            <avg>21.28</avg>
+            <status>0</status>
+            <curr>15.52</curr>
+            <advises/>
+        </nh4>
+        <o2>
+            <trend>0</trend>
+            <critical_in>-1</critical_in>
+            <avg>8.1</avg>
+            <status>0</status>
+            <curr>8.2</curr>
+            <advises/>
+        </o2>
+        <lux>
+            <status/>
+            <curr>0</curr>
+            <advises/>
+        </lux>
+        <par>
+            <curr>0</curr>
+            <advises/>
+        </par>
+        <kelvin>
+            <curr>0</curr>
+            <advises/>
+        </kelvin>
+    </exps>
+</response>
 ```
 
 
