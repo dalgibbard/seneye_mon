@@ -1,7 +1,7 @@
 seneye_mon
 ==========
 
-Python code for Monitoring the statistics from a Seneye (www.seneye.com) Aquarium Unit via the Seneye API.
+Perl code for Monitoring the statistics from a Seneye (www.seneye.com) Aquarium Unit via the Seneye API.
 
 The plan is to have code for:
 
